@@ -3,4 +3,4 @@
  * Debit card
  * Netbanking
  * Apple pay
- * coffeehut_wallet
+ * Coffeehut_wallet
